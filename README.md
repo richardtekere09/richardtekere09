@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Richard 👋</h1>
 
 <p align="center">
-  🚀 Machine Learning & AI Specialist | 🤖 Robotics Engineer | 
+   | Data Scientist (ML/AI) | Intelligent Automation &Robotics |
 </p>
 
 <p align="center">
@@ -43,7 +43,6 @@ I'm **Richard Tekere**, a tech enthusiast passionate about turning complex ideas
 [![GitHub Streak](https://streak-stats.demolab.com?user=richardtekere09&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtekere09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 🌐 Connect With Me
